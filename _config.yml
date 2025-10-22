@@ -224,3 +224,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+comments:
+  provider: giscus
+  giscus:
+    repo: ericwang984/ericwang984.github.io
+    repo_id: R_kgDOQFzOiQ
+    category: Announcements
+    category_id: DIC_kwDOQFzOic4Cw7sV
+    mapping: pathname
+    input_position: bottom
+    lang: en
+    reactions_enabled: true
