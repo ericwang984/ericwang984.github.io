@@ -3,7 +3,6 @@ title: What Is Blockchain? A Simple Guide for Beginners
 date: 2025-10-22 18:00:00 +1000
 categories: [Web3 Basics]
 tags: [web3, blockchain, decentralization]
-author: Eric Wang
 ---
 
 Have you ever sent money online and wondered: **"Why does it take so long?"** or **"Why do I have to trust a bank or company in the middle?"**  
