@@ -1,6 +1,6 @@
 ---
 title: What Is a Block, Hash, Node, and Ledger?
-date: 2025-10-23 18:00:00 +1000
+date: 2025-10-24 18:00:00 +1000
 categories: [Web3 Basics]
 tags: [web3, blockchain, decentralization]
 ---

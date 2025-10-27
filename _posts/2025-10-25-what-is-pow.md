@@ -1,6 +1,6 @@
 ---
 title: What Is Bitcoin Proof of Work (PoW)?
-date: 2025-10-23 18:00:00 +1000
+date: 2025-10-25 18:00:00 +1000
 categories: [Web3 Basics]
 tags: [web3, blockchain, pow]
 ---
