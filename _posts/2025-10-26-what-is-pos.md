@@ -1,8 +1,10 @@
 ---
 title: What Is Ethereum Proof of Stake (PoS)?
 date: 2025-10-26 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, pow]
+categories: [Web3, Consensus]
+tags: [web3, blockchain, ethereum, proof-of-stake, consensus]
+description: "A clear guide to Ethereum Proof of Stake, why Ethereum moved away from mining, and how validators secure the network."
+image: /assets/img/posts/ethereum-proof-of-stake.svg
 ---
 
 In September 2022, Ethereum completed one of the most significant upgrades in blockchain history—**The Merge**—when it transitioned from **Proof of Work (PoW)** to **Proof of Stake (PoS)**. This move made Ethereum **99.95% more energy efficient**, more scalable for the future, and more secure through a new form of economic trust.
@@ -164,5 +166,3 @@ Ethereum’s transition to Proof of Stake marks a major evolution in blockchain 
 ✅ **Accessible to more people**
 
 PoS is more than just a technical change—it’s the foundation of Ethereum’s future.
-
-

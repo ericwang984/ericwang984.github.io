@@ -1,8 +1,10 @@
 ---
 title: What Is Bitcoin Proof of Work (PoW)?
 date: 2025-10-25 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, pow]
+categories: [Web3, Consensus]
+tags: [web3, blockchain, bitcoin, proof-of-work, consensus]
+description: "Learn how Bitcoin Proof of Work secures transactions, creates consensus, and protects the network without central control."
+image: /assets/img/posts/bitcoin-proof-of-work.svg
 ---
 
 ## Introduction
@@ -130,4 +132,3 @@ In simple terms:
 ✅ PoW makes Bitcoin **trustless**  
 
 ---
-

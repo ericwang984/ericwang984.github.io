@@ -1,8 +1,10 @@
 ---
 title: What Is a Block, Hash, Node, and Ledger?
 date: 2025-10-24 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, decentralization]
+categories: [Web3, Concepts]
+tags: [web3, blockchain, blocks, hashes, nodes, ledger]
+description: "Understand the core building blocks of blockchain systems: blocks, hashes, nodes, ledgers, and how they fit together."
+image: /assets/img/posts/block-hash-node-ledger.svg
 ---
 
 
@@ -128,5 +130,3 @@ Node	Network computer	Runs the blockchain
 
 ## Final Thoughts
 These four concepts are the foundation of blockchain. Once you understand blocks, hashes, nodes, and ledgers, everything else in Web3 becomes easier to learn.
-
-

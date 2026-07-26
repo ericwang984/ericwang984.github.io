@@ -1,8 +1,10 @@
 ---
 title: What Are Layer 1 and Layer 2 Chains?
 date: 2025-11-05 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, layer 1, layer 2]
+categories: [Web3, Scaling]
+tags: [web3, blockchain, layer-1, layer-2, scaling, rollups]
+description: "Understand the difference between Layer 1 and Layer 2 blockchains and how they work together to improve scalability."
+image: /assets/img/posts/layer-1-layer-2-chains.svg
 ---
 
 ## Introduction

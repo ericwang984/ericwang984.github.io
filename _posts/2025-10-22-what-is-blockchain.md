@@ -1,8 +1,10 @@
 ---
 title: What Is Blockchain? A Simple Guide for Beginners
 date: 2025-10-22 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, decentralization]
+categories: [Web3, Concepts]
+tags: [web3, blockchain, distributed-ledger, decentralization]
+description: "A beginner-friendly explanation of blockchain as a shared digital record system for exchanging information and value."
+image: /assets/img/posts/what-is-blockchain.svg
 ---
 
 Have you ever sent money online and wondered: **"Why does it take so long?"** or **"Why do I have to trust a bank or company in the middle?"**  

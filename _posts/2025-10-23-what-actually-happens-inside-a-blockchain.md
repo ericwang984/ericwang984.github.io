@@ -1,8 +1,10 @@
 ---
 title: What Actually Happens Inside a Blockchain?
 date: 2025-10-23 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, decentralization]
+categories: [Web3, Concepts]
+tags: [web3, blockchain, transactions, nodes, consensus]
+description: "Follow a blockchain transaction from submission to validation, block inclusion, consensus, and final confirmation."
+image: /assets/img/posts/inside-a-blockchain.svg
 ---
 
 
@@ -99,4 +101,3 @@ Popular consensus mechanisms:
 | 5 | The block is verified |
 | 6 | It is added to blockchain |
 | 7 | Transaction is confirmed |
-

@@ -1,8 +1,10 @@
 ---
 title: What Is a Smart Contract?
 date: 2025-10-27 18:00:00 +1000
-categories: [Web3 Basics]
-tags: [web3, blockchain, smart contract]
+categories: [Web3, Smart Contracts]
+tags: [web3, blockchain, smart-contracts, ethereum, automation]
+description: "Learn what smart contracts are, how they run on blockchains, and why they power DeFi, NFTs, DAOs, and Web3 apps."
+image: /assets/img/posts/what-is-smart-contract.svg
 ---
 
 
